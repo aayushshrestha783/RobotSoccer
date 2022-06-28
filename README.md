@@ -44,25 +44,19 @@
     - In last bot two motor driver was used.
     - A tin plate was used to protect the electronic components from any damages.
 
-###Circuits
-###Connection of motor driver, arduino, motor.
-![](images/motor%20driver%20and%20arduino.jpeg)
-###Connection of Bluetooth module and arduino
-![](images/bluetooth%20module%20and%20arduino.png)
-###Connection of Arduino shield, Motors
-![](images/arduino%20and%20shield.jpg)
 
-###Problems faced while making the robot:
+
+### Problems faced while making the robot:
 - Lack of planning and research.
 - Frequent Change in design due to change in comonents.
 - Late completion of robot.
 - Lack of practice.
 
-###Problems faced in competitions:
+### Problems faced in competitions:
 - Our robot speed was slow compared with others.
 - Wheel slipped in the areana and a couldn't take a proper turns.
 
-###Conclusion:
+### Conclusion:
 - Make proper research about rules and guidelines for the competition.
 - Complete the robot 3-4 days ahead and practice.
 - Kicking mechanism is not necessary ( speed and control of robot is very crucial).
@@ -71,6 +65,13 @@
 - And lastly if lost, don't be hopeless know your worth think about the things you learned during the process and be happy you got this opportunity.🙂
 
 # Images :
+### Circuits
+### Connection of motor driver, arduino, motor.
+![](images/motor%20driver%20and%20arduino.jpeg)
+### Connection of Bluetooth module and arduino
+![](images/bluetooth%20module%20and%20arduino.png)
+### Connection of Arduino shield, Motors
+![](images/arduino%20and%20shield.jpg)
 ### Rack Slider
 ![](images/rack-slider.png)
 ### Rack
