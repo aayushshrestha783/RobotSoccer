@@ -5,7 +5,7 @@
 - 4 Soccer robot was made for a competition held in kathmandu by WRC robotics club.
 
 ### Components :
-- Chassis
+- Chasis
 - Clamp
 - Stud
 - Motor
