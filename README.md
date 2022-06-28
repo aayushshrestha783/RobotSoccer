@@ -34,24 +34,24 @@
     - Arduino, Arduino Shield, Motor Driver, Motor Driver Shield & Bluetooth module was connected using the Jumper wires and some of them were soldered(Either motor driver or ardiuno shield was used).
     - A tin plate was used to protect the electronic components from any damages.
 
-### Images :
-- Arduino Board
+# Images :
+### Arduino Board
 ![](images/arduino-board.png)
-- ArduinoShield
+### ArduinoShield
 ![](images/arduinoshield.jpeg)
-- Bluetooth Module
+### Bluetooth Module
 ![](images/bluetooth_module.jpeg)
-- DC Motor
+### DC Motor
 ![](images/dc-motor.jpg)
-- Jumper
+### Jumper
 ![](images/jumper.jpeg)
-- Motor Driver
+### Motor Driver
 ![](images/motor-driver.png)
-- Motor Shield
+### Motor Shield
 ![](images/motor-shield.png)
-- Rack Slider
+### Rack Slider
 ![](images/rack-slider.png)
-- Rack
+### Rack
 ![](images/rack.png)
-- Stud
+### Stud
 ![](images/stud.jpg)
