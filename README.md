@@ -71,7 +71,7 @@
 ### Connection of Bluetooth module and arduino
 ![](images/bluetooth%20module%20and%20arduino.png)
 ### Connection of Arduino shield, Motors
-![]((images/arduino%20and%20shield.jpg)
+![](images/arduino%20and%20shield.jpg)
 ### Rack Slider
 ![](images/rack-slider.png)
 ### Rack
