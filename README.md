@@ -4,7 +4,7 @@
 - A specialized mobile robot that is used to play variants of soccer is termed as `Soccer Robot`.
 - 4 Soccer robot was made for a competition held in kathmandu by WRC robotics club.
 
-### Parts :
+### Components :
 - Chassis
 - Clamp
 - Stud
@@ -50,7 +50,7 @@
 ###Connection of Bluetooth module and arduino
 ![](images/bluetooth%20module%20and%20arduino.png)
 ###Connection of Arduino shield, Motors
-![](images/arduinoshield%20and%20motor.jpeg)
+![](images/arduino%20and%20shield.jpg)
 
 ###Problems faced while making the robot:
 - Lack of planning and research.
@@ -71,25 +71,11 @@
 - And lastly if lost, don't be hopeless know your worth think about the things you learned during the process and be happy you got this opportunity.🙂
 
 # Images :
-### Arduino Board
-![](images/arduino-board.png)
-### ArduinoShield
-![](images/arduinoshield.jpeg)
-### Bluetooth Module
-![](images/bluetooth_module.jpeg)
-### DC Motor
-![](images/dc-motor.jpg)
-### Jumper
-![](images/jumper.jpeg)
-### Motor Driver
-![](images/motor-driver.png)
-### Motor Shield
-![](images/motor-shield.png)
 ### Rack Slider
 ![](images/rack-slider.png)
 ### Rack
 ![](images/rack.png)
 ### Rack and Pin gear system
 ![](images/rack-and-pinion-drivesystem.jpeg)
-### Stud
-![](images/stud.jpg)
+
+
