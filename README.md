@@ -65,10 +65,8 @@
 
 # Images :
 ### Circuits
-### Connection of motor driver, arduino, motor.
+<h2>Connection of motor driver, arduino, motor</h2>
 <img src="images/motor-driver-and-arduino.jpeg" width="50%"/>
-<h2>Connection of Bluetooth module and arduino.</h2>
-<img src="bluetooth-module-arduino.png" width="50%"/>
 <h2>Connection of Arduino shield, Motors</h2>
 <img src="images/arduino-and-shield.jpg" width="50%"/>
 <h2>Connection of Bluetooth module and arduino</h2>
