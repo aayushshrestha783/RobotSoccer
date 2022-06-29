@@ -66,22 +66,22 @@
 # Images :
 ### Circuits
 ### Connection of motor driver, arduino, motor.
-![](images/motor-driver-and-arduino.jpeg){width:100%}
+<img src="images/motor-driver-and-arduino.jpeg" width="50%"/>
 ### Connection of Bluetooth module and arduino.
-![](images/bluetooth-module-and-arduino.png){width:100%}
+<img src="bluetooth-module-and-arduino.png" width="50%"/>
 ### Connection of Arduino shield, Motors
-![](images/arduino-and-shield.jpg){width:100%}
+<img src="images/arduino-and-shield.jpg" width="50%"/>
 ### Connection of Bluetooth module and arduino
-![](images/bluetooth-module-arduino.png){width:100%}
+<img src="images/bluetooth-module-arduino.png" width="50%"/>
 ### Rack Slider
-![](images/rack-slider.png){width:100%}
+<img src="images/rack-slider.png" width="50%"/>
 ### Rack
-![](images/rack.jpg){width:100%}
+<img src="images/rack.jpg" width="50%"/>
 ### Rack and Pin gear system
-![](images/rack-and-pinion-drivesystem.jpeg){width:100%}
+<img src="images/rack-and-pinion-drivesystem.jpeg" width="50%"/>
 ### Pin gear
-![](images/pin-gear.jpg){width:100%}
+<img src="images/pin-gear.jpg" width="50%"/>
 ### All Bots
-![](images/all-bots.jpg){width:100%}
+<img src="images/all-bots.jpg" width="50%"/>
 
 
