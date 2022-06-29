@@ -20,10 +20,10 @@
 - Screws
 - `For Kicking Mechanism` :
     - Rack and Pinning Technique(Parts) :
-        - Rack and Rack slider.
-        - Pin Gear.
-        - Pad.
-        - Catapult Rubber.
+        - Rack
+        - Rack slider
+        - Pin Gear
+        - Catapult Rubber
 
 ### Process :
 - Firstly the Chassis was made using ply of size 20*17cm.
@@ -82,5 +82,7 @@
 ![](images/rack.png)
 ### Rack and Pin gear system
 ![](images/rack-and-pinion-drivesystem.jpeg)
+### Pin gear
+![](images/pin-gear.jpg)
 
 
