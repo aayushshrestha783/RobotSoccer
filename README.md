@@ -2,7 +2,7 @@
 
 ### Introduction :
 - A specialized mobile robot that is used to play variants of soccer is termed as `Soccer Robot`.
-- 4 Soccer robot was made for a competition held in kathmandu by WRC robotics club.
+- 4 Soccer robot  was build for CNIYEF Nepal Start-Up Fest
 
 ### Components :
 - Chasis
@@ -20,22 +20,21 @@
 - Screws
 - `For Kicking Mechanism` :
     - Rack and Pinning Technique(Parts) :
-        - Pin Gear
-        - Catapult Rubber
+        - Rack and Rack slider.
+        - Pin Gear.
+        - Pad.
+        - Catapult Rubber.
 
 ### Process :
 - Firstly the Chassis was made using ply of size 20*17cm.
-- Clamp was made using aluminium sheet to hold the motor.
+- Clamp was made using aluminium sheet to hold the motor(for 2 soccer bot 300 rpm motor were used and 200 rpm motor was used for the rest).
 - In first layer :
     - Motor was fixed in the chasis using clamp.
     - Battery was also placed maintaining CG.
     - Wheel was fixed in motor.
     - `For Kicking Mechanism`
-        - Solid Works was used for designing the parts.
-        - Dimensions:
-            - Rack 
-            - Rack slider
-            - Pin gear
+        - Solid Works was used for designing the parts(rack, rack slider and pin gear) and printed using 3d printer.
+        - 200 rom motor was used to rotate pin gear.
     - To hold next layer, we drilled in the chassis according to the stud size.
 - In second layer :
     - Arduino, Arduino Shield, Motor Driver, Motor Driver Shield & Bluetooth module was connected using the Jumper wires and some of them were soldered(Either motor driver or ardiuno shield was used).
@@ -48,7 +47,7 @@
 
 ### Problems faced while making the robot:
 - Lack of planning and research.
-- Frequent Change in design due to change in comonents.
+- Frequent Change in design due to change in components.
 - Late completion of robot.
 - Lack of practice.
 
@@ -72,6 +71,11 @@
 ![](images/bluetooth%20module%20and%20arduino.png)
 ### Connection of Arduino shield, Motors
 ![](images/arduino%20and%20shield.jpg)
+![](images/motor-driver-and-arduino.jpeg)
+### Connection of Bluetooth module and arduino
+![](images/bluetooth-module%20-arduino.png)
+### Connection of Arduino shield, Motors
+![](images/arduino-and-shield.jpg)
 ### Rack Slider
 ![](images/rack-slider.png)
 ### Rack
